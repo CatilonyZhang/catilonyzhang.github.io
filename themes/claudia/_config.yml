@@ -1,0 +1,71 @@
+# main menu navigation
+menu:
+  Home: /
+  About: /about
+  Archive: /archives
+
+widgets:
+  - tag
+  - archive
+  - recent_posts
+  - category
+  - profile
+
+# social config
+social:
+  zhihu: https://www.zhihu.com/people/zhang-kai-te-21
+  # twitter: /
+  # facebook: /
+  linkedin: https://www.linkedin.com/in/yichi-zhang-5a99942aa/
+  # instagram: /
+  github: Yuba-Technology
+
+user:
+  name: CatilonyZhang(Zhang Yichi)
+  avatar: /images/avatar.jpg
+  avatar_dark: /images/avatar.jpg
+  location: Singapore
+  description: We are the one leading the future
+  footnotes: # footnotes
+
+# documents: https://github.com/utterance/utterances
+# API config: https://utteranc.es/
+comment_utteranc:
+  enable: true
+  repo: CatilonyZhang/catilonyzhang.github.io # your blog repo
+
+# documents: https://valine.js.org/quickstart.html
+comment_valine:
+  enable: false
+  appId:
+  appKey:
+
+comment_disqus:
+  enable: false
+  url: # the url of your website main domain like this https://xxx.xxx/
+  name: # the short name in disqus
+
+# dark
+# light
+# user-can-set
+appearance: auto # Default value is auto
+
+# Miscellaneous
+favicon:
+
+friend_links:
+  - title: 煜霸科技
+    link: https://yuba.tech
+
+# Google Analytics
+ga_track_id:
+ga_domain:
+
+# Baidu Analytics
+ba_track_id:
+
+# picture of about page
+about_pic: avatar.jpg
+
+image_zoom:
+  enable: true
