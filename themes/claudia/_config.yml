@@ -13,10 +13,10 @@ widgets:
 
 # social config
 social:
-  zhihu: https://www.zhihu.com/people/zhang-kai-te-21
+  zhihu: people/zhang-kai-te-21
   # twitter: /
   # facebook: /
-  linkedin: https://www.linkedin.com/in/yichi-zhang-5a99942aa/
+  linkedin: yichi-zhang-5a99942aa
   # instagram: /
   github: Yuba-Technology
 
